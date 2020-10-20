@@ -1,0 +1,29 @@
+{
+  "name": "rainow",
+  "version": "1.0.0",
+  "description": "Makes the letters in the console log rainbowed colered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kridt/rainbow.git"
+  },
+  "keywords": [
+    "console",
+    "rainbow",
+    "consolelog",
+    "giveaway",
+    "free v-bucks",
+    "free money",
+    "free",
+    "colors"
+  ],
+  "author": "Christian Nielsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kridt/rainbow/issues"
+  },
+  "homepage": "https://github.com/kridt/rainbow#readme"
+}
