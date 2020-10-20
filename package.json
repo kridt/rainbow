@@ -1,6 +1,6 @@
 {
   "name": "@kridt/rainbowlog",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Makes the letters in the console log rainbowed colered",
   "main": "index.js",
   "scripts": {
