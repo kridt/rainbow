@@ -2,11 +2,11 @@
 YOU'LL NEVER SEE A NPM-PACK AS GOOD AS THIS, HIT THE DOWNLOAD BUTTON 
 
 # Usage
-Install with `npm i @vbucks/rainbowlog`
+Install with `npm i @kridt/rainbowlog`
 
 
 ```javascript
 
-var rainbowLog = require("@vbucks/rainbowlog");
+var rainbowLog = require("@kridt/rainbowlog");
 rainbowLog("SEE RAINBOOOOOOOOOOW");
 ```
